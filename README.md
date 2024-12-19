@@ -39,13 +39,11 @@ Os dados podem ser importados de **planilhas** ou inseridos manualmente via inte
 
 ## Capturas de Tela/Visualizações
 ### Tela Inicial
-![Tela Inicial](imagens/tela_inicial.png)
+![Tela Inicial](https://cdn.dribbble.com/userupload/4177349/file/original-c516c801ac63974c124437e33bcc5134.png?resize=1024x768&vertical=center)
 
 ### Cadastro de Cliente
-![Cadastro de Cliente](imagens/cadastro_cliente.png)
+![Cadastro de Cliente](https://cdn.dribbble.com/users/1719402/screenshots/5420332/media/96f2100d4051df4afb03ca2905192091.png?resize=768x576&vertical=center)
 
-### Histórico de Compras
-![Histórico de Compras](imagens/historico_compras.png)
 
 ## Tecnologias Utilizadas
 - **Frontend**: HTML, CSS, JavaScript (React)
@@ -98,4 +96,7 @@ O desenvolvimento desse projeto seguiu uma abordagem ágil, utilizando as melhor
 ## Créditos
 - **Desenvolvedor Principal**: Seu Nome
 - **Apoio**: [Mentor ou nome de colaborador, se houver]
-- **Design**: [Nome do Designer ou ferramenta utilizada, se aplicável]
+- **Design**: ## Créditos
+
+Designs criados por [Laura Magalhães](https://dribbble.com/lauramagalhaes).
+
